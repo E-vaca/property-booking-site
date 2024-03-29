@@ -12,7 +12,7 @@ const ListingFilters = ({onChange}) => {
         onChange({
             dates,
             guests,
-            search
+            search,
         })
     }
 
